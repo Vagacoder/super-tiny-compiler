@@ -1,4 +1,5 @@
-# origin repo is here: https://github.com/jamiebuilds/the-super-tiny-compiler
+# Original repo is here: https://github.com/jamiebuilds/the-super-tiny-compiler
+## This is a Babel compiler. To study Babel go here: https://babeljs.io/docs/en/index.html
 ### 08/04/2019
 ======================
 
